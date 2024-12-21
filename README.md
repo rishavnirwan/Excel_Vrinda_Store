@@ -13,4 +13,7 @@ This project analyzes sales and operational data from Vrinda Store to derive act
    ```bash
    git clone https://github.com/your-username/Vrinda_Store_Analysis.git
 
+![Screenshot](https://github.com/username/repository/blob/main/path/to/image.png)
+
+
 
